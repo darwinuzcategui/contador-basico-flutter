@@ -4,7 +4,8 @@ A new Flutter project.
 
 
 ## Ver La pantalla de APP en la Carpetas Pantallas
-
+![Pantalla Principal](
+https://github.com/darwinuzcategui/contador-basico-flutter/blob/master/pantallas/Screenshot_20200616-214336.png "****")
 
 ## Getting Started
 
